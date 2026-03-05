@@ -1,4 +1,4 @@
-const CACHE_NAME = 'todolist-v2';
+const CACHE_NAME = 'Challenge-v1';
 const OFFLINE_PAGE = [
   '/',
   '/login',
