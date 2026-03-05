@@ -1,0 +1,6 @@
+{
+    "name": "test challenge",
+    "short_name": "challenge",
+    "start_url": "./?source=pwa",
+    "display": "fullscreen"
+}
